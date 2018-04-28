@@ -1,5 +1,4 @@
 # Crypto Wars
-========
 This repository holds all the smart contracts that are going to be used on the game Crypto Wars
 Please check the [documentation](https://github.com/tedmorning/crypto-wars-solidity.git) for more details.
 
